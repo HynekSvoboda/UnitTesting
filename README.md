@@ -1,4 +1,4 @@
 # UnitTesting
 
-Svoboda Hynek
+Stodola Hynek
 Růžička Tomáš
